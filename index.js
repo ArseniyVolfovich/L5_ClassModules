@@ -1,7 +1,7 @@
 import { ProbniyKyrs } from './ProbniyKyrs.js';
 
 const course1 = new ProbniyKyrs("Базовые варды на саппах", 50, true, 7);
-const course2 = new ProbniyKyrs("Полный курс по Dota 2", 100, true, 5);
+const course2 = new ProbniyKyrs("Полный курс по Dota 2", 250, true, 5);
 
 course1.show();
 course2.show();
